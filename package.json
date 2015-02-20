@@ -1,0 +1,37 @@
+{
+  "name": "browserify-alias-grunt",
+  "title": "browserify-alias-grunt",
+  "description": "Map paths to JS files and directories for use as aliases so that modules can be require'd without messy relative file paths.",
+  "version": "0.1.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munkychop/browserify-alias-grunt"
+  },
+  "main": "browserify-alias-grunt.js",
+  "bugs": {
+    "url": "https://github.com/munkychop/browserify-alias-grunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/munkychop/browserify-alias-grunt/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "keywords": [
+    "grunt",
+    "browserify",
+    "gruntbrowserify",
+    "grunt-browserify",
+    "alias",
+    "aliasMappings",
+    "mappings",
+    "map",
+    "path",
+    "remapify",
+    "aliasify"
+  ]
+}
