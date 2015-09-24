@@ -61,6 +61,8 @@ npm install --save-dev browserify-alias-grunt
 
 ### Implementation
 
+**NOTE that all aliases will end up in your bundled JS code**
+
 Simply specify the files and directories you want to map by using a globbing pattern. Here is a very basic Gruntfile as an example:
 
 ```javascript
